@@ -32,23 +32,27 @@ Pour chacune des pages ci-dessous, les textes alternatifs sont-ils adéquats ?Co
 
 - https://www.sail.ca/fr/chaussures/junior/multi-sport-et-plein-air 
 Les textes alternatifs sont adéquat pour les photos et le logo mais nulpart d'écritons les couleurs
------
 [capture-écran](images/1-textes-alternatifs/1-2/sail_plein_air.png)
+-----
+
 
 - https://amzn.to/2NnbKPN 
 Les textes alternatif décrit la même choses de se qui est écrit en dessous de l'images et on même des ... lorsque le texte est trop long. j'aurais peut-être essayer de mettre un description des images.
------
 [capture-écran](images/1-textes-alternatifs/1-2/amazon.png)
+-----
+
 
 - https://www.lesoleil.com/  
 Ils ont tous le nom de l'article en temp que texte alternatif mais il n'a pas de texte alternatif pour le bouton recherche.
------
 [capture-écran](images/1-textes-alternatifs/1-2/leSoleil.png)
+-----
+
 
 - https://www.rad.ca/  
-Aucun texte alternatif au moins certain article on voit le titre mais même sur celle qui est seulement une images il n'a pas de texte alternatif
------
+Aucun texte alternatif au moins certain article on voit le titre mais même sur celle qui est seulement une images il n'a pas de texte alternatif.
 [capture-écran](images/1-textes-alternatifs/1-2/RadioCanada.png)
+-----
+
 
 Astuce  
 Parfois, l’affichage des alt ne donnent pas un résultat facile à lire… lorsque cela se produit, faites un clic droit de la souris et choisir inspecter pour positionner l’inspecteur de DOM sur le HTML de l’image.
@@ -62,9 +66,9 @@ Pour chaque problème de contraste identifié,
 documenter le problème par une capture-écran incluant dans son cadre, la zone fautive à gauche et à droite, les résultats détaillés de l’outil, tel que démontré dans l’exemple ci-dessous.
 
 Sauvegarder les captures dans le dossier images. Compléter les liens ci-dessous:
-- [Contraste insuffisant 1](images/...)
-- [Contraste insuffisant 2](images/...)
-- [Contraste insuffisant 3](images/...)
+- [Contraste insuffisant 1](images/2-contrastes-couleurs/constraste1.png)
+- [Contraste insuffisant 2](images/2-contrastes-couleurs/constraste2.png)
+- [Contraste insuffisant 3](images/2-contrastes-couleurs/constraste3.png)
 
 ### 3. Structurer avec les h1-h6 une table des matières
 
