@@ -84,8 +84,9 @@ __Tutoriel sur les formulaires du w3c__
 [Table des matières (outline)](images/3-table-des-matieres_h1-h6/3-1/tuto-form-w3c-outline.png) 
 
 Réponse : 
-
 ----
+Le h1 est le titre de l'article et les h2 sont les sous-titre de cette article. Parfait.
+
 ----
 ----
 
@@ -94,8 +95,9 @@ __L’affaire Savtchenko__
 [Table des matières (outline)](images/3-table-des-matieres_h1-h6/3-1/article-savtchenko-outline.png) 
   
 Réponse : 
-
 ----
+Les 4 premiers h2 de la page ne devrais pas être des h2 sois des forms des bouton mais pas des h2. Et tout les autres h2 de la page ne devrais pas être la non plus, il ne sont pas des sous-titre du h1 il sont des choses dans la page aucune relation avec le contenus du h1. Le premier h2 est avec le h1 mais c'est le texte intro de l'article et pas un sous-titre.
+
 ----
 ----
 
