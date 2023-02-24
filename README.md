@@ -1,7 +1,7 @@
 # Exercice d'accessibilité des contenus
 
 ## Équipe
-- Prénom nom
+- Léa Marois
 - Prénom nom
 
 ## Objectifs
