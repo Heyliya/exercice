@@ -31,25 +31,24 @@ Pour vous guider dans le choix des balises, des attributs et des valeurs d'attri
 Pour chacune des pages ci-dessous, les textes alternatifs sont-ils adéquats ?Commenter votre observation. Pourrait-on faire mieux ? Donnez un exemple de ce que vous proposeriez.
 
 - https://www.sail.ca/fr/chaussures/junior/multi-sport-et-plein-air 
+Les textes alternatifs sont adéquat pour les photos et le logo mais nulpart d'écritons les couleurs
 -----
------
------
-[capture-écran]()
+[capture-écran](images/1-textes-alternatifs/1-2/sail_plein_air.png)
+
 - https://amzn.to/2NnbKPN 
+Les textes alternatif décrit la même choses de se qui est écrit en dessous de l'images et on même des ... lorsque le texte est trop long. j'aurais peut-être essayer de mettre un description des images.
 -----
------
------
-[capture-écran]()
+[capture-écran](images/1-textes-alternatifs/1-2/amazon.png)
+
 - https://www.lesoleil.com/  
+Ils ont tous le nom de l'article en temp que texte alternatif mais il n'a pas de texte alternatif pour le bouton recherche.
 -----
------
------
-[capture-écran]()
+[capture-écran](images/1-textes-alternatifs/1-2/leSoleil.png)
+
 - https://www.rad.ca/  
+Aucun texte alternatif au moins certain article on voit le titre mais même sur celle qui est seulement une images il n'a pas de texte alternatif
 -----
------
------
-[capture-écran]()
+[capture-écran](images/1-textes-alternatifs/1-2/RadioCanada.png)
 
 Astuce  
 Parfois, l’affichage des alt ne donnent pas un résultat facile à lire… lorsque cela se produit, faites un clic droit de la souris et choisir inspecter pour positionner l’inspecteur de DOM sur le HTML de l’image.
